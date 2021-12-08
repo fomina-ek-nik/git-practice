@@ -1,0 +1,3 @@
+This is a new file to check the way the command 'cat' can work
+[B[A[B
+:qw
